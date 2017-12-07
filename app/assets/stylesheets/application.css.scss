@@ -13,3 +13,31 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+    font-family: sans-serif-bold;
+    color: #e91e63;
+}
+
+#primary-nav {
+    background-color: #e91e63 !important;
+}
+
+#pink-button {
+    border-color: #e91e63;
+    color: #e91e63;
+}
+
+#pink-button:hover {
+    background-color: #e91e63;
+    color: white;
+}
+
+#gray-button {
+    border-color: #868e96;
+    color: #868e96;
+}
+
+#gray-button:hover {
+    background-color: #868e96;
+    color: white;
+}
